@@ -41,6 +41,7 @@ R button should restart the round by re-initializing the values of Bunny Run.
 **Additional Libraries:** GLM, GLEW, GLFW, stb image.h, and FreeType libraries.  
 
 An example image of Bunny Run:
+![Bunny_Run](https://github.com/beyzacapraz/Ceng477/blob/main/HW3/Bunny_Run/Bunny_Run.png?raw=true)
 
 
 
