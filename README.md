@@ -4,8 +4,9 @@ Hardware and software components of graphics systems. Output and filled-data pri
 # Homework 1
 Ray tracing is a fundamental rendering algorithm. It is commonly used for animations and architectural simulations, in which the quality of the created images is more important than the time
 it takes to create them. In this assignment, I am going to implement a basic ray tracer that
-simulates the propagation of light in real world.
+simulates the propagation of light in real world.  
+An example output image in PNG format:
 
-[An example output image in PNG format](https://github.com/beyzacapraz/Ceng477/blob/main/HW1/inputs/Car.png?raw=true)
+![example image](https://github.com/beyzacapraz/Ceng477/blob/main/HW1/inputs/Car.png?raw=true)
 
 
