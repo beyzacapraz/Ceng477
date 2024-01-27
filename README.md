@@ -27,3 +27,20 @@ An example output image for demonstrating line rasterization:
 Another output example:
 
 ![horse and mug](https://github.com/beyzacapraz/Ceng477/blob/main/HW2/inputs_outputs/culling_enabled_outputs/horse_and_mug/horse_and_mug_1.ppm.png?raw=true)
+
+# Homework 3
+
+In this assignment, I implemented an OpenGL game called Bunny Run. In this game, the
+user controls a hopping bunny in the horizontal direction to capture the yellow checkpoints while
+avoiding the red checkpoints in an everlasting journey on a wide road to obtain a high score. The
+bunny continuously hops forward at an increasing speed, which makes it hard to keep the bunny
+alive as time passes in a round. Hitting one of the red checkpoints ends the round by making the
+bunny faint and lie down. A and D buttons should make the bunny move to its left and right, respectively.
+R button should restart the round by re-initializing the values of Bunny Run.  
+
+**Additional Libraries:** GLM, GLEW, GLFW, stb image.h, and FreeType libraries.  
+
+An example image of Bunny Run:
+
+
+
