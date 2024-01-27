@@ -9,4 +9,14 @@ An example output image in PNG format:
 
 ![example image](https://github.com/beyzacapraz/Ceng477/blob/main/HW1/inputs/Car.png?raw=true)
 
+# Homework 2
+
+In this assignment, I implemented Modeling Transformation, Viewing Transformation,
+and Rasterization stages of the Forward Rendering Pipeline. Given a set of triangles
+and the position and the color attributes of all of their vertices, my aim was to render the scene as a
+two-dimensional (2D) image. I first transformed all of the vertices to the viewport and then used line
+drawing and triangle rasterization algorithms to display the triangles in wireframe or solid modes.
+I implemented Liang-Barsky  clipping algorithm for wireframe mode only. 
+I also implemented the backface culling (for both modes) for correct
+rendering of the scene. Implementations are in C++ language.
 
