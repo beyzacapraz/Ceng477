@@ -1,0 +1,79 @@
+﻿  main.cpp
+D:\VisualStudio\Projects\opengl_hw\main.cpp(147,11): warning C4101: 'index': unreferenced local variable
+D:\VisualStudio\Projects\opengl_hw\main.cpp(306,15): warning C4267: 'initializing': conversion from 'size_t' to 'GLint', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(331,15): warning C4267: 'initializing': conversion from 'size_t' to 'GLint', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(523,24): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+D:\VisualStudio\Projects\opengl_hw\main.cpp(573,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(574,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(575,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(721,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(729,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(737,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(745,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(753,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(777,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(780,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(797,69): warning C4305: 'argument': truncation from 'double' to 'T'
+D:\VisualStudio\Projects\opengl_hw\main.cpp(797,69): warning C4305:         with
+D:\VisualStudio\Projects\opengl_hw\main.cpp(797,69): warning C4305:         [
+D:\VisualStudio\Projects\opengl_hw\main.cpp(797,69): warning C4305:             T=float
+D:\VisualStudio\Projects\opengl_hw\main.cpp(797,69): warning C4305:         ]
+D:\VisualStudio\Projects\opengl_hw\main.cpp(798,69): warning C4305: 'argument': truncation from 'double' to 'T'
+D:\VisualStudio\Projects\opengl_hw\main.cpp(798,69): warning C4305:         with
+D:\VisualStudio\Projects\opengl_hw\main.cpp(798,69): warning C4305:         [
+D:\VisualStudio\Projects\opengl_hw\main.cpp(798,69): warning C4305:             T=float
+D:\VisualStudio\Projects\opengl_hw\main.cpp(798,69): warning C4305:         ]
+D:\VisualStudio\Projects\opengl_hw\main.cpp(812,71): warning C4305: 'argument': truncation from 'double' to 'T'
+D:\VisualStudio\Projects\opengl_hw\main.cpp(812,71): warning C4305:         with
+D:\VisualStudio\Projects\opengl_hw\main.cpp(812,71): warning C4305:         [
+D:\VisualStudio\Projects\opengl_hw\main.cpp(812,71): warning C4305:             T=float
+D:\VisualStudio\Projects\opengl_hw\main.cpp(812,71): warning C4305:         ]
+D:\VisualStudio\Projects\opengl_hw\main.cpp(877,12): warning C4305: '=': truncation from 'double' to 'float'
+D:\VisualStudio\Projects\opengl_hw\main.cpp(926,18): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(929,18): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(952,69): warning C4305: 'argument': truncation from 'double' to 'T'
+D:\VisualStudio\Projects\opengl_hw\main.cpp(952,69): warning C4305:         with
+D:\VisualStudio\Projects\opengl_hw\main.cpp(952,69): warning C4305:         [
+D:\VisualStudio\Projects\opengl_hw\main.cpp(952,69): warning C4305:             T=float
+D:\VisualStudio\Projects\opengl_hw\main.cpp(952,69): warning C4305:         ]
+D:\VisualStudio\Projects\opengl_hw\main.cpp(969,71): warning C4305: 'argument': truncation from 'double' to 'T'
+D:\VisualStudio\Projects\opengl_hw\main.cpp(969,71): warning C4305:         with
+D:\VisualStudio\Projects\opengl_hw\main.cpp(969,71): warning C4305:         [
+D:\VisualStudio\Projects\opengl_hw\main.cpp(969,71): warning C4305:             T=float
+D:\VisualStudio\Projects\opengl_hw\main.cpp(969,71): warning C4305:         ]
+D:\VisualStudio\Projects\opengl_hw\main.cpp(1067,19): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(1068,18): warning C4305: '+=': truncation from 'double' to 'float'
+D:\VisualStudio\Projects\opengl_hw\main.cpp(1089,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\VisualStudio\Projects\opengl_hw\main.cpp(1139,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(1141,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\VisualStudio\Projects\opengl_hw\main.cpp(1146,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\Projects\opengl_hw\main.cpp(1148,24): warning C4305: '=': truncation from 'double' to 'float'
+freetype.lib(ftinit.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftinit.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftbase.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftbase.obj)' or at ''; linking object as if no debug info
+freetype.lib(autofit.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(autofit.obj)' or at ''; linking object as if no debug info
+freetype.lib(truetype.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(truetype.obj)' or at ''; linking object as if no debug info
+freetype.lib(type1.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type1.obj)' or at ''; linking object as if no debug info
+freetype.lib(cff.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(cff.obj)' or at ''; linking object as if no debug info
+freetype.lib(type1cid.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type1cid.obj)' or at ''; linking object as if no debug info
+freetype.lib(pfr.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pfr.obj)' or at ''; linking object as if no debug info
+freetype.lib(type42.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type42.obj)' or at ''; linking object as if no debug info
+freetype.lib(winfnt.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(winfnt.obj)' or at ''; linking object as if no debug info
+freetype.lib(pcf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pcf.obj)' or at ''; linking object as if no debug info
+freetype.lib(bdf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(bdf.obj)' or at ''; linking object as if no debug info
+freetype.lib(psaux.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(psaux.obj)' or at ''; linking object as if no debug info
+freetype.lib(psmodule.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(psmodule.obj)' or at ''; linking object as if no debug info
+freetype.lib(pshinter.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pshinter.obj)' or at ''; linking object as if no debug info
+freetype.lib(sfnt.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(sfnt.obj)' or at ''; linking object as if no debug info
+freetype.lib(smooth.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(smooth.obj)' or at ''; linking object as if no debug info
+freetype.lib(raster.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(raster.obj)' or at ''; linking object as if no debug info
+freetype.lib(sdf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(sdf.obj)' or at ''; linking object as if no debug info
+freetype.lib(svg.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(svg.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftsystem.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftsystem.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftmm.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftmm.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftgzip.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftgzip.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftlzw.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftlzw.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftbitmap.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftbitmap.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftdebug.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftdebug.obj)' or at ''; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  opengl_hw.vcxproj -> D:\VisualStudio\Projects\opengl_hw\x64\Debug\opengl_hw.exe
