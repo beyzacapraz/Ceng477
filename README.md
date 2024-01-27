@@ -6,5 +6,6 @@ Ray tracing is a fundamental rendering algorithm. It is commonly used for animat
 it takes to create them. In this assignment, I am going to implement a basic ray tracer that
 simulates the propagation of light in real world.
 
+![An example output image in PNG format](https://github.com/beyzacapraz/Ceng477/blob/main/HW1/inputs/Car.png?raw=true)
 
 
