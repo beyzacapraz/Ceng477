@@ -26,4 +26,4 @@ An example output image for demonstrating line rasterization:
 
 Another output example:
 
->[horse and mug]()
+>[horse and mug](https://github.com/beyzacapraz/Ceng477/blob/main/HW2/inputs_outputs/culling_enabled_outputs/horse_and_mug/horse_and_mug_1.ppm.png?raw=true)
